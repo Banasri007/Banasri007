@@ -51,7 +51,7 @@ write('assets/hero.svg',svg(1200,500,'Aditya Banasri — AI/ML student and enthu
 const cards=[
 ['knowledge','01 / LANGUAGE SYSTEMS','Enterprise-knowledge-agent',['Multi-source RAG. Evidence reconciliation.','Answers grounded in their sources.'],'LangGraph  /  Hybrid retrieval','#65e2ee','agent'],
 ['vision','02 / COMPUTER VISION','Drivable-Space-Segmentation',['Pixel-level road understanding with a','custom PyTorch encoder–decoder.'],'PyTorch  /  Semantic segmentation','#65e2ee','vision'],
-['calibration','03 / RELIABLE ML','clinical-risk-calibration',['Exploring how class imbalance changes','predicted risks — and how to repair them.'],'Calibration  /  Model evaluation','#c4a2ff','chart'],
+['calibration','03 / RELIABLE ML','clinical-risk-calibration',['Impact of Class Imbalance on Risk Predictions and Exploring Mitigation Strategies.'],'Calibration  /  Model evaluation','#c4a2ff','chart'],
 ['aerial','04 / APPLIED DEEP LEARNING','yolo-aerial-person-detection',['Evaluating tiny-object detection from','drone imagery with YOLOv8 + VisDrone.'],'YOLOv8  /  Computer vision','#ffbd83','detect']
 ];
 for(const [id,kicker,title,desc,foot,c,type] of cards){
