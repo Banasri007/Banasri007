@@ -32,8 +32,8 @@
 
 <h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-neural-activity-dark.svg">
-    <img src="./assets/heading-neural-activity-light.svg" alt="Neural activity" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Banasri007/Banasri007/output/arcade.svg">
+    <img src="https://raw.githubusercontent.com/Banasri007/Banasri007/output/arcade.svg" alt="Neural activity" />
   </picture>
 </h2>
 
