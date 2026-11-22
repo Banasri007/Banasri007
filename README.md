@@ -37,9 +37,6 @@
   </picture>
 </h2>
 
-<p align="center">
-<img src="./assets/arcade.svg" width="100%" alt="Commit Arcade playing on my GitHub contribution graph; Tron light cycles race through my contributions." />
-</p>
 
 <!-- SOCIAL_PLACEHOLDERS
 [Portfolio](YOUR_PORTFOLIO_URL) · [Kaggle](YOUR_KAGGLE_URL)
